@@ -1,0 +1,27 @@
+/* === CSS for index.html === */
+
+/* mini css reset */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.centered {
+  margin: 40px auto;
+  max-width: 500px;
+}
+
+h1 {
+  margin-bottom: 0.75em;
+}
+
+.about-dev-version a {
+  font-weight: bold;
+  text-decoration: none;
+}
